@@ -1,0 +1,352 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 112px;
+    background-color:#ffffff;
+
+}.headersub1{
+    margin-left: 75px;
+    width: 416px;
+    height: 112px;
+    float: left;
+}.logo{
+    margin-top: 11px;
+}.headersub2{
+    width: 412px;
+    height: 112px;
+    background-color: #ffffff;
+    float: left;
+}.home{
+    display: flex;
+    list-style: none;
+    font-size: 12px;
+    padding-left: 26px;
+    margin-top: 25px;
+    font-family: "0", "Helvetica Neue", sans-serif;
+    }
+    .large-pic{
+
+        height: 302px;
+        width: 100%;
+
+    }
+.list{
+    display: flex;
+    position: relative;
+    right: 60px;
+
+}.contact{
+    height: 63px;
+    width: 97px;
+    float: left;
+}.small{
+   font-size: 12px;
+   font-family: "0", "Helvetica Neue", sans-serif;
+    margin-top: 41px;
+    margin-left: 10px;
+}.last{
+    width: 270px;
+    height: 112px;
+    background-color: #ffffff;
+    float: left;
+
+}.heat{
+    margin-top: 28px;
+    margin-left: 39px;
+    height: 47px;
+}.inter{
+    height: 29px;
+    width: 187px;
+    background-color: #d1d1d1;
+    margin-top: -43px;
+    margin-left: 76px;
+}.national{
+    font-size: 12px;
+    font-family: Poppins, sans-serif;
+    position: relative;
+    top: 8px;
+    left: 10px;
+    letter-spacing: 1px;
+
+}.india{
+    width: 59px;
+    height: 29px;
+    background-color: #ec1c23;
+    position: relative;
+    left: 129px;
+    top: -18px;
+}.indiatyping{
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 8px;
+    font-family: Poppins, sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+}.numbertext{
+    position: relative;
+    top: -232px;
+    left: -232px;
+    letter-spacing: 4px;
+    font-size: 24px;
+    color: #ffdf01;
+    font-weight: 600;
+    font-family: sans-serif;
+}.manufacturetext{
+    position: relative;
+    top: -234px;
+    left: -210px;
+    letter-spacing: 0px;
+    font-size: 15.5px;
+    color: #ffdf01;
+    font-weight: 500;
+    font-family: sans-serif;if;  
+}
+.bigger{
+    height: 302px;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}.toppencil{
+    position: relative;
+    top: -198px;
+    left: 342px;
+    width: 668px;
+    height: 81px;
+}
+.big-section1{
+    height: 356px;
+    width: 100%;
+    float: left;
+    background-color: ffffff;
+}#pencilbig{
+    width: 50%;
+    height: 49px;
+    position: relative;
+    left: 275px;
+    bottom: 214px;
+}
+.sub1{
+    float: left;
+    height: 356px;
+    width: 50%;
+    background-color: #ffffff;
+}
+.sub2{
+    float: left;
+    height: 356px;
+    width: 50%;
+    background-color: #ffffff;
+}.headline{
+    font-size: 25px;
+    font-family: Poppins, sans-serif;
+    margin-top: 35px;
+    margin-left: 96px;
+}.salt{
+    width: 483px;
+    border-color: #ec1c23;
+    position: relative;
+    top: -9px;
+}.longtext{
+  font-size: 16px;
+  font-family: Poppins, sans-serif;
+  margin-top: 10px;
+  margin-left: 96px;  
+  opacity: 90%;
+  letter-spacing: 1.2px;
+  line-height: 24px;
+}.but{
+    margin-top: 16px;
+    margin-left: 532px;
+    height: 48px;
+    width: 115px;
+    font-size: 14px;
+    font-family: Poppins, sans-serif;
+    border-radius: 10px;
+    letter-spacing: 1px;
+    background-color: white;
+
+}.pencil-vedio{
+    margin-top: 24px;
+    margin-left: 76px;
+    width: 72%;
+    height: 311px;
+    }.big-section2{
+        width: 100%;
+        height: 369px;
+        float: left;
+    }.part1{
+        width: 50%;
+        height: 369px;
+        background-color: #eaecef;
+        float: left;
+    }.part2{
+        width: 50%;
+        height: 369px;
+        background-color: #ec1c23;
+        float: left;
+    }.part1 img{
+width: 570px;
+height: 268px;
+margin-top: 37px;
+margin-left: 20px;
+border-style: solid;
+border-width: 15px;
+position: relative;
+left: 111px;
+border-color:  #eaecef;
+
+
+    }.natarajtext{
+        margin-top: 52px;
+        margin-left: 105px;
+
+    }.natarajtyping{
+        font-size: 16px;
+        font-family: Poppins, sans-serif;
+        margin-top: 10px;
+        margin-left: 109px;
+        opacity: 90%;
+        letter-spacing: 1.2px;
+        line-height: 24px;
+        color: white;
+    }.butter{
+         height: 48px;
+        width: 115px;
+        font-size: 14px;
+        font-family: Poppins, sans-serif;
+        border-radius: 10px;
+        letter-spacing: 1px;
+        background-color: #ec1c23;
+        border-color: white;
+        position: relative;
+        left: -200px;
+        top: 68px;
+
+
+
+    }.big-section3{
+        height: 410px;
+        width: 100%;
+    }.piece1{
+width: 50%;
+height: 100%;
+background-color: #009eac;
+float: left;
+    }.piece2{
+        width: 50%;
+        height: 100%;
+        background-color: #eaecef;
+        float: left;
+    }.apsaralogo{
+        margin-top: 42px;
+        margin-left: 163px;
+    }.apsaratexting{
+        font-size: 16px;
+        font-family: Poppins, sans-serif;
+        margin-top: 10px;
+        margin-left: 163px;
+        opacity: 90%;
+        letter-spacing: 1.2px;
+        line-height: 24px;
+        color: white;
+    }.switch{
+        height: 48px;
+        width: 115px;
+        font-size: 14px;
+        font-family: Poppins, sans-serif;
+        border-radius: 10px;
+        letter-spacing: 1px;
+        background-color: #009eac
+        ;
+        border-color: white;
+        position: relative;
+        left: 166px;
+        top: 20px;
+    }.childes{
+        width: 570px;
+height: 268px;
+margin-top: 37px;
+margin-left: 20px;
+border-style: solid;
+border-width: 15px;
+position: relative;
+left: -73px;
+border-color:  #eaecef;
+    }.big-section4{
+        width: 100%;
+        height: 410px;
+        float: left;
+    }.division1{
+        width: 50%;
+        height: 100%;
+        background-color: #eaecef;
+        float: left;
+    }.division2{
+        width: 50%;
+        height: 100%;
+        background-color: #ec1c23;
+        float: left;
+    }.morepens{
+        width: 570px;
+        height: 268px;
+        margin-top: 45px;
+        margin-left: 196px;
+        border-style: solid;
+        border-width: 15px;
+        position: relative;
+        left: -73px;
+        border-color:  #eaecef;
+    }.natarajsticker{
+        margin-top: 60px;
+        margin-left: 95px;
+    }.redtext{
+        font-size: 16px;
+        font-family: Poppins, sans-serif;
+        margin-top: 10px;
+        margin-left: 102px;
+        opacity: 90%;
+        letter-spacing: 1.2px;
+        line-height: 24px;
+        color: white;
+    }.press{
+        height: 48px;
+        width: 115px;
+        font-size: 14px;
+        font-family: Poppins, sans-serif;
+        border-radius: 10px;
+        letter-spacing: 1px;
+        background-color: #ec1c23;
+        border-color: white;
+        position: relative;
+        left: -46px;
+        top: 66px;
+    }.footer{
+        height: 67px;
+        width: 100%;
+        background-color: #eaecef;
+        float: left;
+    }.issue{
+        margin-top: 28px;
+        margin-left: 500px;}
+        .ctype{
+            position: relative;
+            top: -4px;
+            left: 3px;
+            opacity: 90%;
+            font-size: 17px;
+            font-family: Poppins, sans-seri;
+            letter-spacing: .5px;
+        }.csr{
+position: relative;
+top: -3px;
+left: 5px;
+font-size: 17px;
+font-family: Poppins, sans-seri;
+letter-spacing: .8px;
+color: #ec1c23;
+
+        }
